@@ -9,3 +9,7 @@ post_hook = "kew theme noctalia"
 [templates.rofi]
 input_path = "~/.config/noctalia/templates/noctalia.rasi"
 output_path = "~/.config/rofi/noctalia.rasi"
+
+[templates.cava]
+input_path = "~/.config/noctalia/templates/cava.ini"
+output_path = "~/.config/cava/themes/noctalia"
