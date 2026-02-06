@@ -1,3 +1,22 @@
-# my-dot-files
-dotifles for niri with noctalia and apps like cava kew fastfetch peaclock foot also with zsh config 
-noctalia-shell user templates for rofi cava(without background) kew
+<pre>
+'########:::'#######::'########:'########:'####:'##:::::::'########::'######::
+ ##.... ##:'##.... ##:... ##..:: ##.....::. ##:: ##::::::: ##.....::'##... ##:
+ ##:::: ##: ##:::: ##:::: ##:::: ##:::::::: ##:: ##::::::: ##::::::: ##:::..::
+ ##:::: ##: ##:::: ##:::: ##:::: ######:::: ##:: ##::::::: ######:::. ######::
+ ##:::: ##: ##:::: ##:::: ##:::: ##...::::: ##:: ##::::::: ##...:::::..... ##:
+ ##:::: ##: ##:::: ##:::: ##:::: ##:::::::: ##:: ##::::::: ##:::::::'##::: ##:
+ ########::. #######::::: ##:::: ##:::::::'####: ########: ########:. ######::
+........::::.......::::::..:::::..::::::::....::........::........:::......:::
+
+</pre>
+<h1>dotfiles that I use daily<h1>
+<h2>summary</h2>
+<ol>
+  <li>kew with noctalia  user template</li>
+  <li>cava with noctalia  user template(no bg)</li>
+  <li>rofi with noctalia  user template</li>
+  <li>btop</li>
+  <li>fastfetch with multiple ascii arts</li>
+  <li>foot</li>
+  <li>niri</li>
+</ol>
